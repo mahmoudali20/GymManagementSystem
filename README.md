@@ -1,4 +1,4 @@
-# 💪 Gym Management System
+# Gym Management System
 
 A modern, scalable gym management application built with **.NET 8** and **Razor Pages**, designed to streamline gym operations, member management, and fitness tracking.
 
